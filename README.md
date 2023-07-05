@@ -9,13 +9,21 @@ E-commerce website using spring boot and react
 ## Key-Features
 
 User Registration and Authentication
+
 Search and Browse Products
+
 Add Products to Cart
+
 Place Orders
+
 Order Tracking
+
 Account Management
+
 Customer Support
+
 Product Reviews and Ratings
+
 Promotions and Discounts
 
 ## User-Stories
