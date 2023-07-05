@@ -27,6 +27,7 @@ Product Reviews and Ratings
 Promotions and Discounts
 
 ## User-Stories
+
 As a user, I want to be able to see various products when I open website, so that I can explore various products
 
 [User Functionalities](#User-Functionalities) 
@@ -149,6 +150,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Guest Test Cases
 
 **User Story: Guest - View Various Products**
+
  Test Case: Verify that the website displays a list of products when accessed as a guest
    - Steps:
       Open the website as a guest user
@@ -156,6 +158,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The website shows a list of various products
 
 **User Story: Guest - Search for Products**
+
  Test Case: Verify that the guest user can search for products
    - Steps:
       Open the website as a guest user
@@ -164,6 +167,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The website displays the search results matching the entered query
 
 **User Story: Guest - Add Products to Guest Cart**
+
  Test Case: Verify that the guest user can add products to the guest cart
    - Steps:
       Open the website as a guest user
@@ -172,6 +176,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The selected product is added to the guest cart
 
 **User Story: Guest - Sign up for an Account**
+
  Test Case: Verify that the guest user can sign up for an account
    - Steps:
       Open the website as a guest user
@@ -183,6 +188,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Buyer Test Cases
 
 **User Story: Buyer - Sign In to Account**
+
  Test Case: Verify that the buyer can successfully sign in to their account
    - Steps:
       Navigate to the website
@@ -192,6 +198,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The buyer is logged in and directed to their account dashboard
 
 **User Story: Buyer - Update Profile Information**
+
  Test Case: Verify that the buyer can update their profile information
    - Steps:
       Sign in to the buyer account
@@ -201,6 +208,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The profile information is successfully updated
 
 **User Story: Buyer - View Various Products**
+
  Test Case: Verify that the buyer can view various products on the website
    - Steps:
       Sign in to the buyer account (optional)
@@ -209,6 +217,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The buyer can see a variety of products on the website
 
 **User Story: Buyer - Search for Products**
+
  Test Case: Verify that the buyer can search for products
    - Steps:
       Sign in to the buyer account (optional)
@@ -218,6 +227,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The website displays the search results matching the entered query
 
 **User Story: Buyer - Add Products to Shopping Cart**
+
  Test Case: Verify that the buyer can add products to their shopping cart
    - Steps:
       Sign in to the buyer account (optional)
@@ -226,6 +236,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The product is successfully added to the buyer's shopping cart
 
 **User Story: Buyer - Modify Shopping Cart Contents**
+
  Test Case: Verify that the buyer can review and modify the contents of their shopping cart
    - Steps:
       Sign in to the buyer account (optional)
@@ -236,6 +247,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The shopping cart is updated with the desired modifications
 
 **User Story: Buyer - Proceed to Checkout**
+
  Test Case: Verify that the buyer can proceed to the checkout process
    - Steps:
       Sign in to the buyer account (optional)
@@ -244,6 +256,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The buyer is directed to the checkout page
 
 **User Story: Buyer - Complete Secure Payment**
+
  Test Case: Verify that the buyer can securely complete the payment process
    - Steps:
       Sign in to the buyer account (optional)
@@ -256,6 +269,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The payment is processed securely, and the buyer receives a confirmation of the successful transaction
 
 **User Story: Buyer - View Order History**
+
  Test Case: Verify that the buyer can view their order history
    - Steps:
       Sign in to the buyer account
@@ -264,6 +278,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The buyer can see a list of their past purchases and order details
 
 **User Story: Buyer - Leave Reviews and Ratings**
+
  Test Case: Verify that the buyer can leave reviews and ratings for products they have purchased
     - Steps:
        Sign in to the buyer account
@@ -274,6 +289,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
     - Expected Outcome: The review and rating are successfully submitted and displayed for the respective product
 
 **User Story: Buyer - Responsive and Optimized Website**
+
  Test Case: Verify that the website is responsive and optimized for different devices
     - Steps:
        Access the website from various devices (eg, desktop, mobile, tablet)
@@ -281,6 +297,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
     - Expected Outcome: The website adapts to different screen sizes and provides a user-friendly experience on all tested devices
 
 **User Story: Buyer - Share Products and Shopping Experience on Social Media**
+
  Test Case: Verify that the buyer can share products or their shopping experience on social media platforms
     - Steps:
        Sign in to the buyer account (optional)
@@ -292,6 +309,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Seller Test Cases
 
 **User Story: Seller - Post Products to the Website**
+
  Test Case: Verify that the seller can successfully post products to the website
    - Steps:
       Sign in to the seller account
@@ -302,6 +320,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The product is successfully posted and available for sale on the website
 
 **User Story: Seller - Manage Inventory by Editing or Deleting Products**
+
  Test Case: Verify that the seller can manage their inventory by editing or deleting posted products
    - Steps:
       Sign in to the seller account
@@ -313,6 +332,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
      - Delete: The product is removed from the inventory and no longer available for sale
 
 **User Story: Seller - Manage Incoming Orders**
+
  Test Case: Verify that the seller can manage incoming orders by reviewing and updating their status
    - Steps:
       Sign in to the seller account
@@ -324,6 +344,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The order status is updated successfully, reflecting the seller's actions
 
 **User Story: Seller - Track Stock Levels and Receive Low Inventory Notifications**
+
  Test Case: Verify that the seller can track stock levels and receive notifications when inventory is low
    - Steps:
       Sign in to the seller account
@@ -333,6 +354,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The seller receives a notification (eg, email, dashboard alert) indicating low inventory for the product
 
 **User Story: Seller - Create and Manage Promotional Campaigns**
+
  Test Case: Verify that the seller can create and manage promotional campaigns, including discounts, coupons, and special offers
    - Steps:
       Sign in to the seller account
@@ -343,6 +365,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The promotional campaign is successfully created and applied to eligible products, attracting buyers and increasing sales
 
 **User Story: Seller - Access Detailed Analytics and Reports**
+
  Test Case: Verify that the seller can access detailed analytics and reports on product performance, sales, and revenue
    - Steps:
       Sign in to the seller account
@@ -355,6 +378,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Admin Test Cases
 
 **User Story: Admin - Access Dashboard for Website Performance**
+
  Test Case: Verify that the admin can access the dashboard providing an overview of website performance, sales, and user activity
    - Steps:
       Sign in to the admin account
@@ -363,6 +387,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The admin can view the dashboard with accurate and up-to-date information on website performance, sales, and user activity
 
 **User Story: Admin - Manage User Accounts**
+
  Test Case: Verify that the admin can manage user accounts by approving new registrations, blocking or suspending accounts, and managing user roles
    - Steps:
       Sign in to the admin account
@@ -376,6 +401,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
      - User role is updated accordingly
 
 **User Story: Admin - Manage Product Categories and Attributes**
+
  Test Case: Verify that the admin can manage product categories and attributes to ensure proper organization and filtering of products
    - Steps:
       Sign in to the admin account
@@ -389,6 +415,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
      - Attributes are associated with the respective product category
 
 **User Story: Admin - Manage Seller Accounts and Permissions**
+
  Test Case: Verify that the admin can manage seller accounts and their associated permissions
    - Steps:
       Sign in to the admin account
@@ -401,6 +428,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
      - Seller account permissions are updated as per the admin's actions
 
 **User Story: Admin - Generate Reports on Sales, Revenue, and Product Popularity**
+
  Test Case: Verify that the admin can generate reports on sales, revenue, and product popularity
    - Steps:
       Sign in to the admin account
@@ -411,6 +439,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The admin can access and view the requested reports with accurate and insightful data on sales, revenue, and product popularity
 
 **User Story: Admin - Implement Fraud Prevention Measures**
+
  Test Case: Verify that the admin can implement fraud prevention measures to detect and prevent fraudulent activities
    - Steps:
       Sign in to the admin account
@@ -425,6 +454,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
      - Suspicious activities or transactions are flagged for further investigation or action by the admin
 
 **User Story: Admin - User-Friendly Content Management System (CMS)**
+
  Test Case: Verify that the admin can use the user-friendly content management system (CMS) to manage static website content
    - Steps:
       Sign in to the admin account
@@ -438,6 +468,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Search Test Cases
 
 **User Story: Search - Fast and Efficient Search Functionality**
+
  Test Case: Verify that the search functionality provides fast and efficient results, even for large product catalogs
    - Steps:
       Access the website as a user
@@ -448,6 +479,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Security Test Cases
 
 **User Story: Security - Secure Encryption and Protection of Personal and Payment Information**
+
  Test Case: Verify that personal and payment information is securely encrypted and protected
    - Steps:
       Navigate to the website's registration or account creation page
@@ -460,6 +492,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
      - The personal and payment information is stored securely and is not easily accessible or readable
 
 **User Story: Security - Password Reset**
+
  Test Case: Verify that users can reset their password if forgotten
    - Steps:
       Access the website's login page
@@ -473,6 +506,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Localization Test Cases
 
 **User Story: Localization - Support for Multiple Languages and Currencies**
+
  Test Case: Verify that the website supports multiple languages and currencies
    - Steps:
       Access the website as a user
@@ -483,6 +517,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
    - Expected Outcome: The website content and user interface are localized according to the selected language, and product prices are displayed in the selected currency
 
 **User Story: Localization - Display Relevant Information Based on User's Location**
+
  Test Case: Verify that the website displays relevant information based on the user's location
    - Steps:
       Access the website as a user
@@ -493,6 +528,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
 ## Notifications Test Cases
 
 **User Story: Notifications - Email Notifications for Order Confirmations, Shipment Updates, and Account Information**
+
  Test Case: Verify that users receive email notifications for order confirmations, shipment updates, and important account-related information
    - Steps:
       Place an order on the website
@@ -506,6 +542,7 @@ As a user, I want to receive personalized recommendations or offers based on my 
      - The email notifications are sent to the correct email address
 
 **User Story: Notifications - Personalized Recommendations or Offers Based on Browsing and Purchase History**
+
  Test Case: Verify that users receive personalized recommendations or offers based on their browsing and purchase history
    - Steps:
       Browse and view several products on the website
